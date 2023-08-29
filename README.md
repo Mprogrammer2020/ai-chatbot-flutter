@@ -1,7 +1,6 @@
 # Chatbot App with Image and Text Responses
 
-[DemoLink](video/demo.gif)
-
+![Alt Text](https://github.com/Mprogrammer2020/ai-chatbot-flutter/tree/main/assets/video/demo.gif)
 ## Overview
 
 This Flutter application is a versatile chatbot that provides both image and text-based responses. It is designed for both Android and iOS platforms. Users can have interactive conversations with the chatbot, download images provided by the bot, and enjoy the convenience of text-to-speech and speech-to-text functionality.

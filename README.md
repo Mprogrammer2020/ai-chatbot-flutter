@@ -1,6 +1,6 @@
 # Chatbot App with Image and Text Responses
 
-["demo"](https://github.com/Mprogrammer2020/ai-chatbot-flutter/tree/main/assets/video/demo.gif)
+[DemoLink](video/demo.gif)
 
 ## Overview
 
